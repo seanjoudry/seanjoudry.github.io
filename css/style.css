@@ -86,8 +86,9 @@ img {
   hyphens: none;
 }
 
-.email {
+a.email {
   color: white;
+  font-size: 15px;
 }
 
 .emailaddress {
